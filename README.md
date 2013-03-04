@@ -1,4 +1,4 @@
 sample
 ======
 
-sample-site pake this fujiyama
+sample-site pake this hujiyama
